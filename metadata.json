@@ -1,0 +1,7 @@
+{
+  "name": "Copy of InkFlow - AI Tattoo Designer",
+  "description": "A minimal tattoo design generator that visualizes meaningful concepts directly on your skin.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
